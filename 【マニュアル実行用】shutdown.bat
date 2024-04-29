@@ -1,0 +1,10 @@
+#shutdown.exe -s -t 18000 -c "5.0時間後にシャットダウンします" -f
+#shutdown.exe -s -t 16200 -c "4.5時間後にシャットダウンします" -f
+#shutdown.exe -s -t 12600 -c "3.5時間後にシャットダウンします" -f
+#shutdown.exe -s -t 10800 -c "3.0時間後にシャットダウンします" -f
+shutdown.exe -s -t 9000 -c "2.5時間後にシャットダウンします" -f
+#shutdown.exe -s -t 7200 -c "2.0時間後にシャットダウンします" -f
+#shutdown.exe -s -t 5400 -c "1.5時間後にシャットダウンします" -f
+#shutdown.exe -s -t 3600 -c "1.0時間後にシャットダウンします" -f
+#shutdown.exe -s -t 1800 -c "0.5時間後にシャットダウンします" -f
+#shutdown.exe -s -t 900 -c "0.25時間後にシャットダウンします" -f
