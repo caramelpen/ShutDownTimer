@@ -1,0 +1,10 @@
+D:\dev\ShutDownTimer\bin\x64\Debug\ShutDownTimer.exe.config
+D:\dev\ShutDownTimer\bin\x64\Debug\ShutDownTimer.exe
+D:\dev\ShutDownTimer\bin\x64\Debug\ShutDownTimer.pdb
+D:\dev\ShutDownTimer\obj\x64\Debug\ShutDownTimer.csproj.AssemblyReference.cache
+D:\dev\ShutDownTimer\obj\x64\Debug\ShutDownTimer.UI.f01_Main.resources
+D:\dev\ShutDownTimer\obj\x64\Debug\ShutDownTimer.Properties.Resources.resources
+D:\dev\ShutDownTimer\obj\x64\Debug\ShutDownTimer.csproj.GenerateResource.cache
+D:\dev\ShutDownTimer\obj\x64\Debug\ShutDownTimer.csproj.CoreCompileInputs.cache
+D:\dev\ShutDownTimer\obj\x64\Debug\ShutDownTimer.exe
+D:\dev\ShutDownTimer\obj\x64\Debug\ShutDownTimer.pdb
